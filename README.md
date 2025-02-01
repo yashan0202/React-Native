@@ -46,4 +46,4 @@
         The project successfully demonstrated the ability to transform a static image into a dynamic, visually appealing animation within a React Native application. It highlighted skills in working with animation libraries and optimizing performance for mobile platforms.
     </p>
 
-<h2>Developed by: Yash Anand</h2>
+<h2>Developed by: Yash Anand </h2>
